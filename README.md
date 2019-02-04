@@ -1,32 +1,21 @@
 # EARTH | Citizen
-## Knowledge sharing
 
-Have been in and out of web-based learning for a couple of years.
-Most recently I have undertaken react as a front end framework, this
-was taken on as a +1 to the utility belt, but also to build dApps
-using Blockchain and cryptocurrency as the method of
-communication.
-Coming from a technical mindset, I understand what can make
-systems better, but lack the experience and team size to actually
-create those systems.
-Looking to be placed in a work environment that’ll allow the
-continuation of knowledge building and have began working on
-directly understanding backend languages (Node, Golang).
+## Currently Learning
+When life throws you speed bumps, you encounter general inefficiencies in how something is operating.
+Those direct problems have turned me towards developing a better foundation and goals are;
 
-# DSX | Research Intern
-## digitalstock.exchange
+Short
+- Front End (React)
 
-My introduction into the Blockchain ecosystem. My time at DSX
-was spent researching and understanding how the movement of
-crypto-currencies and tokenised assets are going to revolutionise
-the future.
-This first real role allowed me to understand the ecosystem as a
-whole, but also the foundation for understanding the benefits of
-platforms like Ethereum.
+Medium
+- Material Design
 
-# Currently 
-Partaking in multiple projects that are associated with crypto-currency and blockchains. Looking for the intersection point between the physical and the virtual world, whilst increasing the knowledge about it. 
+Long
+- Backend (Golang/Python TBD)
 
-Ideally, looking for a position that will allow me to learn and grow, whilst making an impact at the same time. 
+## Parsl | Community Manager
+I am currently working for a startup in Melbourne called Parsl, which whilst at times has been extremely challenging and demanding, has proven to be a tremendous character-building experience.
+I am enjoy working with Startups given my interest in virtual currencies, alongside my continued enthusiasm for the growing Blockchain industry, specifically EOSio.
 
-
+## Samsung | Brand Ambassador
+As a Brand Ambassador, I was directly placed in Telstra to essentially welcome customers to the suite of Samsung products available. I was constantly mentoring and providing information about Samsung products to Telstra employees and motivating other Samsung colleagues to reach their targets.
