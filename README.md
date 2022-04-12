@@ -20,8 +20,6 @@ I continue developing exceptional customer service, communication and multi-task
 
 ---
 
-<br />
-
 ## Trade View Investments 
 
 **Customer Support**
@@ -38,8 +36,6 @@ I continue developing exceptional customer service, communication and multi-task
 
 ---
 
-<br />
-
 ## Crypto.com
 
 **Australian/New Zealand Community Manager** 
@@ -54,8 +50,6 @@ I continue developing exceptional customer service, communication and multi-task
 <br />
 
 ---
-
-<br />
 
 ## Parsl
 
@@ -84,8 +78,6 @@ board and understanding of the project’s processes
 
 ---
 
-<br />
-
 ## SAMSUNG
 
 **Brand Ambassador**
@@ -103,8 +95,6 @@ sales and customer feedback
 <br />
 
 ---
-
-<br />
 
 ## Bunnings Warehouse 
 
