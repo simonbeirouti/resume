@@ -6,13 +6,9 @@
 
 ---
 
-<br />
-
 My early exposure to logistics and different forms of product movement and data input and output has motivated me to pursue a career in data analytics and software engineering. I value the benefit of technology in increasing productivity and efficiency in the workplace and facilitating convenience and informative living. I have recognised how this can benefit internal processes and decision making.
 
 I continue developing exceptional customer service, communication and multi-tasking skills in my roles by taking on challenges and pushing my boundaries. I have also built upon my abilities to perform under pressure, persevere and stay resilient, commit to excellence by constantly improving, goal-setting, leadership and teamwork, and time management.
-
-<br />
 
 ---
 
@@ -32,8 +28,6 @@ I continue developing exceptional customer service, communication and multi-task
 - Converse with the sales and development teams to coordinate effective customer responses
 - Monthly performance review and strategy sessions to align my skills directly into the role
 
-<br />
-
 ---
 
 ## Crypto.com
@@ -46,8 +40,6 @@ I continue developing exceptional customer service, communication and multi-task
 - Community moderating through deletion, muting & banning
 - Dispute resolution with unhappy members through understanding and accepting the situation
 - Weekly reporting and weekly team calls to debrief, collect feedback and improve together
-
-<br />
 
 ---
 
@@ -74,8 +66,6 @@ and assigning software
 - Provided educational seminars to teach other co-workers how to use chosen software to ensure everyone is on
 board and understanding of the project’s processes
 
-<br />
-
 ---
 
 ## SAMSUNG
@@ -92,8 +82,6 @@ through the FAST (Forget, Active, State & Teach) approach.
 - Utilised applications to capture check-ins/check-outs through photos, GPS location, and inputting data of daily
 sales and customer feedback
 
-<br />
-
 ---
 
 ## Bunnings Warehouse 
@@ -108,7 +96,5 @@ sales and customer feedback
 - Coordinated with team members the receiving of “in demand” stock through the Bunnings distribution centres
 - Provided friendly and helpful customer service and assisted customers with their queries regarding their home
 DIY projects
-
-<br />
 
 ---
