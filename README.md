@@ -2,8 +2,6 @@
 
 ---
 
-<br />
-
 # Personal attributes
 
 ---
@@ -17,7 +15,6 @@ I continue developing exceptional customer service, communication and multi-task
 <br />
 
 ---
-<br />
 
 # Professional experiences
 
@@ -121,3 +118,7 @@ sales and customer feedback
 - Coordinated with team members the receiving of “in demand” stock through the Bunnings distribution centres
 - Provided friendly and helpful customer service and assisted customers with their queries regarding their home
 DIY projects
+
+<br />
+
+---
